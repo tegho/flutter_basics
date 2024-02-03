@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/shopdata/build" />
+      <excludeFolder url="file://$MODULE_DIR$/shopdata/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/shopdata/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/datamodels/build" />
+      <excludeFolder url="file://$MODULE_DIR$/datamodels/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/datamodels/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/shopbusiness/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/shopbusiness/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/shopbusiness/build" />
+      <excludeFolder url="file://$MODULE_DIR$/a02_business/build" />
+      <excludeFolder url="file://$MODULE_DIR$/a02_business/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/a02_business/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/a02_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/a02_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/a02_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/a03_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/a03_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/a03_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/a04_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/a04_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/a04_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/a06_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/a06_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/a06_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/a06c_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/a06c_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/a06c_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/a05_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/a05_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/a05_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/a07_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/a07_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/a07_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/a08_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/a08_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/a08_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/a09_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/a09_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/a09_app/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 33, extension level 4 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
