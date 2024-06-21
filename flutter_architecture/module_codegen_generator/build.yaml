@@ -1,0 +1,9 @@
+
+builders:
+  codegen:
+    import: 'package:module_codegen_generator/builder.dart'
+    builder_factories: ['codegenBuilder']
+    build_extensions: {'.dart': ['.xxx.g.part']}
+    auto_apply: dependents
+    build_to: cache
+    applies_builders: ['source_gen:combining_builder']

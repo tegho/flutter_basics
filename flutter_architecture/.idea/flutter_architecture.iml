@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/ui/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ui/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ui/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/module_business/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/module_business/build" />
+      <excludeFolder url="file://$MODULE_DIR$/module_business/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/module_data/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/module_data/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/module_data/build" />
+      <excludeFolder url="file://$MODULE_DIR$/module_model/build" />
+      <excludeFolder url="file://$MODULE_DIR$/module_model/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/module_model/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/module_codegen/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/module_codegen/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/module_codegen/build" />
+      <excludeFolder url="file://$MODULE_DIR$/module_codegen_generator/build" />
+      <excludeFolder url="file://$MODULE_DIR$/module_codegen_generator/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/module_codegen_generator/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/module_analyzer/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/module_analyzer/build" />
+      <excludeFolder url="file://$MODULE_DIR$/module_analyzer/.pub" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 33, extension level 4 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
